@@ -1,1 +1,4 @@
 /* Start coding here */
+*{
+    box-sizing: content-box;
+}
