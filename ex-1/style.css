@@ -1,1 +1,35 @@
 /* Start coding here */
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+/* section{
+    margin: 0  0 5rem 0;
+} */
+.header {
+    height: 6rem;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: rgb(146, 169, 189);
+    color: rgb(24, 59, 86);
+}
+.content-t, .content-b{
+    display: block;
+    padding: 1rem 2rem;
+    border: 5px solid rgb(24, 59, 86);
+    background-color: rgb(228, 233, 237 );
+    width: 70vw;
+    margin: 5rem 3rem ;
+}
+.head-con {
+    font-size: 1.7rem;
+}
+.content-t div, .content-b div{
+    color: rgb(24, 59, 86);
+    margin: 1rem 0;
+}
+img{
+    width: 50rem;
+    height: 30rem;
+}
