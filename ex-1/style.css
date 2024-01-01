@@ -2,3 +2,30 @@
 *{
     box-sizing: content-box;
 }
+.header{
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: #624ded;
+    padding: 20px;
+}
+
+
+.head-content{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.content-t{
+    margin: 5px 5px 5px 5px;
+    padding-left: 10px;
+    background-color: cornflowerblue;
+    border: 5px black solid;
+}
+
+.table-content{
+    padding-bottom: 10px;
+}
+
+.content-h{
+    font-weight: bold;
+}
